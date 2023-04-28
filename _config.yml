@@ -1,2 +1,5 @@
+# Collections
 collections:
-  - staff_members
+  jekyll:
+    output: true
+    sort_by: lesson
